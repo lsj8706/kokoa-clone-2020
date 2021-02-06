@@ -1,0 +1,13 @@
+.badge {
+  display: block;
+  background-color: tomato;
+  width: 25px;
+  height: 25px;
+  border-radius: 12.5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*block으로 먼저 하고 flex로 바꿔야 숫자를 가운데에 정렬시킬수있다.*/
+  color: white;
+  font-weight: 600;
+}
